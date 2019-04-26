@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>HESAP MAKİNESİ</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+		body {
+  			background-color: black;
+		}
+
+		h3 {
+  			text-align: center;
+         color: white;
+		}
+
+		p {
+  			font-family: verdana;
+  			font-size: 20px;
+		}
+    .btn-group-lg{
+        	text-align: center;
+    }
+    #sol{
+      background-color:red;
+      text-align: center;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2">
+
+
+    </div>
+    <div class="col-sm-8">
+      <br><br><br><br><br>
+      <h3><big>HESAP MAKİNESİ</big></h3><br>
+      <div>
+
+      	<div class="btn-group-lg">
+        	<input type="text" name="text" id="text" style="width:61.5%" class="text">
+        	<button class="btn btn-danger" style="width:30%" onclick="deleteText()">sil</button><p></p>
+    			<button type="button" class="btn btn-secondary" style="width:20%" onclick="yazdir(1)">1</button>
+    			<button type="button" class="btn btn-secondary" style="width:20%" onclick="yazdir(2)">2</button>
+    			<button type="button" class="btn btn-secondary" style="width:20%" onclick="yazdir(3)">3</button>
+          <button type="button" class="btn btn-danger" style="width:30%" onclick="hesapla()">=</button>
+		</div><br>
+
+        <div class="btn-group-lg">
+  			<button type="button" class="btn btn-secondary " style="width:20%" onclick="yazdir(4)">4</button>
+  			<button type="button" class="btn btn-secondary" style="width:20%" onclick="yazdir(5)">5</button>
+  			<button type="button" class="btn btn-secondary" style="width:20%" onclick="yazdir(6)">6</button>
+        <button type="button" class="btn btn-danger" style="width:30%" onclick="yazdir('+')">+</button>
+		</div><br>
+    <div class="btn-group-lg">
+  			<button type="button" class="btn btn-secondary" style="width:20%" onclick="yazdir(7)">7</button>
+  			<button type="button" class="btn btn-secondary" style="width:20%" onclick="yazdir(8)">8</button>
+  			<button type="button" class="btn btn-secondary" style="width:20%" onclick="yazdir(9)">9</button>
+            <button type="button" class="btn btn-danger"  style="width:30%" onclick="yazdir('-')">-</button>
+		</div><br>
+
+        <div class="btn-group-lg">
+  			<button type="button" class="btn btn-dark" style="width:25%" onclick="yazdir(0)">0</button>
+  			<button type="button" class="btn btn-success"style="width:22%" onclick="yazdir('-')">,</button>
+  			<button type="button" class="btn btn-success"style="width:22%" onclick="yazdir('/')">/</button>
+        <button type="button" class="btn btn-success" style="width:22%" onclick="yazdir('*')">*</button>
+		</div><br>
+
+     </div>
+    </div>
+    <div class="col-sm-2" id="sol">
+      <p>İŞLEMLER</p>
+      <button type="button" class="btn btn-success" style="width:65%" onclick="islemler()">getir</button>
+
+    </div>
+  </div>
+</div>
+<script src="index.js"></script>
+</body>
+</html>
