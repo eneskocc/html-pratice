@@ -29,6 +29,10 @@
       background-color:red;
       text-align: center;
     }
+    #islem{
+      height: 450px;
+      width: 90%;
+    }
 </style>
 </head>
 <body>
@@ -68,16 +72,18 @@
 
         <div class="btn-group-lg">
   			<button type="button" class="btn btn-dark" style="width:25%" onclick="yazdir(0)">0</button>
-  			<button type="button" class="btn btn-success"style="width:22%" onclick="yazdir('-')">,</button>
+  			<button type="button" class="btn btn-success"style="width:22%" onclick="yazdir(',')">,</button>
   			<button type="button" class="btn btn-success"style="width:22%" onclick="yazdir('/')">/</button>
         <button type="button" class="btn btn-success" style="width:22%" onclick="yazdir('*')">*</button>
 		</div><br>
 
      </div>
     </div>
+    <br><br><br>
     <div class="col-sm-2" id="sol">
       <p>İŞLEMLER</p>
-      <button type="button" class="btn btn-success" style="width:65%" onclick="islemler()">getir</button>
+      <textarea id="islem" rows="8" cols="80"></textarea>
+
 
     </div>
   </div>
