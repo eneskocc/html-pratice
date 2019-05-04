@@ -1,0 +1,51 @@
+.jumbotron{
+    height: 240px;
+    background: #6495ED;
+}
+
+div#sticky{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.card-img-top{
+  width: 200px;
+  height: 220px;
+}
+
+footer{
+  margin-top: 250px;
+  width: 100%;
+  height: 250px;
+  background: #6495ED;
+  padding-top: 100px;
+}
+nav , section{
+  margin-bottom: 50px;
+}
+
+nav a:link, nav a:visited {
+  background-color: #F0F8FF;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+nav a:hover, nav a:active {
+  background-color: #6495ED;
+}
+
+#hak{
+  padding: 15px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.oto{
+  margin-left: 50px;
+}
+.h{
+  text-align: left;
+}
