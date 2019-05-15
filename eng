@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>learn english</title>
+  </head>
+  <body>
+    <div class="jumbotron text-center">
+  <h1>Learn to English</h1>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2">
+
+    </div>
+    <div class="col-sm-8">
+        <table style="width: 100%;" class="table table-hover">
+          <thead>
+          <tr style="height: 24px;">
+          <td style="height: 24px;"><strong>Kelime</strong></td>
+          <td style="height: 24px;"><strong>Anlamı</strong></td>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+          <td width="64"><strong>abort</strong></td>
+          <td width="64">durdurmak</td>
+          </tr>
+          <tr>
+          <td><strong>about</strong></td>
+          <td>hakkında</td>
+          </tr>
+          <tr>
+          <td><strong>add-on</strong></td>
+          <td>eklenti</td>
+          </tr>
+          <tr>
+          <td><strong>adware</strong></td>
+          <td>reklam içeren bilgisayar yazılımı</td>
+          </tr>
+          <tr>
+          <td><strong>anchor</strong></td>
+          <td>bağlayıcı</td>
+          </tr>
+          <tr>
+          <td><strong>antivirus</strong></td>
+          <td>virüsten koruma yazılımı</td>
+          </tr>
+          <tr>
+          <td><strong>append</strong></td>
+          <td>sonuna eklemek</td>
+          </tr>
+          <tr>
+          <td><strong>application</strong></td>
+          <td>uygulama</td>
+          </tr>
+          <tr>
+          <td><strong>archive</strong></td>
+          <td>arşivlemek</td>
+          </tr>
+          <tr>
+          <td><strong>autocomplete</strong></td>
+          <td>otomatik tamamlama</td>
+          </tr>
+          <tr>
+          <td><strong>autocorrect</strong></td>
+          <td>otomatik düzeltme</td>
+          </tr>
+          <tr>
+          <td><strong>autofill</strong></td>
+          <td>otomatik doldurma</td>
+          </tr>
+          <tr>
+          <td><strong>autoformat</strong></td>
+          <td>otomatik biçimlendirme</td>
+          </tr>
+          <tr>
+          <td><strong>automatic updates</strong></td>
+          <td>otomatik güncellemeler</td>
+          </tr>
+          <tr>
+          <td><strong>autosave</strong></td>
+          <td>otomatik kaydetme</td>
+          </tr>
+          <tr>
+          <td><strong>back</strong></td>
+          <td>geri</td>
+          </tr>
+          <tr>
+          <td><strong>backup</strong></td>
+          <td>yedekleme</td>
+          </tr>
+          <tr>
+          <td><strong>batch processing</strong></td>
+          <td>toplu işlem</td>
+          </tr>
+          <tr>
+          <td><strong>bundled software</strong></td>
+          <td>donanımla birlikte gelen yazılım</td>
+          </tr>
+          <tr>
+          <td><strong>cad (computer-aided design)</strong></td>
+          <td>bilgisayar destekli tasarım</td>
+          </tr>
+          <tr>
+          <td><strong>calculator</strong></td>
+          <td>hesap makinası</td>
+          </tr>
+          <tr>
+          <td><strong>cancel</strong></td>
+          <td>iptal</td>
+          </tr>
+          <tr>
+          <td><strong>capture</strong></td>
+          <td>yakalamak (ekran görüntüsü)</td>
+          </tr>
+          <tr>
+          <td><strong>check box</strong></td>
+          <td>işaret kutusu</td>
+          </tr>
+          <tr>
+          <td><strong>child</strong></td>
+          <td>alt öge</td>
+          </tr>
+          <tr>
+          <td><strong>collaboration</strong></td>
+          <td>işbirliği</td>
+          </tr>
+          <tr>
+          <td><strong>combine</strong></td>
+          <td>birleştirmek</td>
+          </tr>
+          <tr>
+          <td><strong>command bar</strong></td>
+          <td>komut çubuğu</td>
+          </tr>
+          <tr>
+          <td><strong>commercial software</strong></td>
+          <td>ticari yazılım</td>
+          </tr>
+          <tr>
+          <td><strong>compare</strong></td>
+          <td>karşılaştırmak</td>
+          </tr>
+          <tr>
+          <td><strong>compatible</strong></td>
+          <td>uyumlu</td>
+          </tr>
+          <tr>
+          <td><strong>compress</strong></td>
+          <td>sıkıştırmak</td>
+          </tr>
+          <tr>
+          <td><strong>compressed file</strong></td>
+          <td>sıkıştırılmış dosya</td>
+          </tr>
+          <tr>
+          <td><strong>compression utility</strong></td>
+          <td>sıkıştırma yazılımı</td>
+          </tr>
+          <tr>
+          <td><strong>configuration</strong></td>
+          <td>yapılandırma</td>
+          </tr>
+          <tr>
+          <td><strong>confirmation</strong></td>
+          <td>doğrulama</td>
+          </tr>
+          <tr>
+          <td><strong>connectivity</strong></td>
+          <td>bağlanabilirlik</td>
+          </tr>
+          <tr>
+          <td><strong>console application</strong></td>
+          <td>konsol uygulaması</td>
+          </tr>
+          <tr>
+          <td><strong>continue</strong></td>
+          <td>devam etmek</td>
+          </tr>
+          <tr>
+          <td><strong>copy</strong></td>
+          <td>kopyalamak</td>
+          </tr>
+          <tr>
+          <td><strong>corrupt</strong></td>
+          <td>bozuk</td>
+          </tr>
+          <tr>
+          <td><strong>crash</strong></td>
+          <td>çökmek, arızalanmak</td>
+          </tr>
+          <tr>
+          <td><strong>create</strong></td>
+          <td>oluşturmak</td>
+          </tr>
+          <tr>
+          <td><strong>critical error</strong></td>
+          <td>kritik hata</td>
+          </tr>
+          <tr>
+          <td><strong>crop</strong></td>
+          <td>kırpmak</td>
+          </tr>
+          <tr>
+          <td><strong>cut</strong></td>
+          <td>kesmek</td>
+          </tr>
+          <tr>
+          <td><strong>data processing</strong></td>
+          <td>veri işleme</td>
+          </tr>
+          <tr>
+          <td><strong>data recovery</strong></td>
+          <td>veri kurtarma</td>
+          </tr>
+          <tr>
+          <td><strong>data validation</strong></td>
+          <td>veri doğrulama</td>
+          </tr>
+          <tr>
+          <td><strong>default</strong></td>
+          <td>varsayılan</td>
+          </tr>
+          <tr>
+          <td><strong>delay</strong></td>
+          <td>gecikme</td>
+          </tr>
+          <tr>
+          <td><strong>delete</strong></td>
+          <td>silmek</td>
+          </tr>
+          <tr>
+          <td><strong>demo</strong></td>
+          <td>tanıtım</td>
+          </tr>
+          <tr>
+          <td><strong>desktop publishing</strong></td>
+          <td>masaüstü yayıncılık</td>
+          </tr>
+          <tr>
+          <td><strong>device driver</strong></td>
+          <td>aygıt sürücüsü</td>
+          </tr>
+          <tr>
+          <td><strong>diagnostic program</strong></td>
+          <td>teşhis programı, hata belirleme programı</td>
+          </tr>
+          <tr>
+          <td><strong>diagnostics</strong></td>
+          <td>teşhis etme, hata belirleme</td>
+          </tr>
+          <tr>
+          <td><strong>disable</strong></td>
+          <td>etkisiz hale getirmek</td>
+          </tr>
+          <tr>
+          <td><strong>discard</strong></td>
+          <td>programda yaptıklarından vazgeçmek</td>
+          </tr>
+          <tr>
+          <td><strong>discontinue</strong></td>
+          <td>durdurmak</td>
+          </tr>
+          <tr>
+          <td><strong>document</strong></td>
+          <td>belge</td>
+          </tr>
+          <tr>
+          <td><strong>edit mode</strong></td>
+          <td>düzenleme modu</td>
+          </tr>
+          <tr>
+          <td><strong>embedded</strong></td>
+          <td>tümleşik, gömülü</td>
+          </tr>
+          <tr>
+          <td><strong>emulator</strong></td>
+          <td>benzetici, emülatör</td>
+          </tr>
+          <tr>
+          <td><strong>enable</strong></td>
+          <td>etkin hale getirmek</td>
+          </tr>
+          <tr>
+          <td><strong>entry</strong></td>
+          <td>giriş, kayıt</td>
+          </tr>
+          <tr>
+          <td><strong>erase</strong></td>
+          <td>silmek</td>
+          </tr>
+          <tr>
+          <td><strong>error code</strong></td>
+          <td>hata kodu</td>
+          </tr>
+          <tr>
+          <td><strong>execute</strong></td>
+          <td>çalıştırmak</td>
+          </tr>
+          <tr>
+          <td><strong>exit</strong></td>
+          <td>çıkış</td>
+          </tr>
+          <tr>
+          <td><strong>expand</strong></td>
+          <td>genişletmek</td>
+          </tr>
+          <tr>
+          <td><strong>explode</strong></td>
+          <td>patlatmak</td>
+          </tr>
+          <tr>
+          <td><strong>export</strong></td>
+          <td>dışarı aktar</td>
+          </tr>
+          <tr>
+          <td><strong>extract</strong></td>
+          <td>çıkar, ayıkla</td>
+          </tr>
+          <tr>
+          <td><strong>eyedropper</strong></td>
+          <td>göz damlası</td>
+          </tr>
+          <tr>
+          <td><strong>factory settings</strong></td>
+          <td>fabrika ayarları</td>
+          </tr>
+          <tr>
+          <td><strong>fail</strong></td>
+          <td>başarısız olma</td>
+          </tr>
+          <tr>
+          <td><strong>failure</strong></td>
+          <td>hata</td>
+          </tr>
+          <tr>
+          <td><strong>fault</strong></td>
+          <td>hata</td>
+          </tr>
+          <tr>
+          <td><strong>feature</strong></td>
+          <td>özellik</td>
+          </tr>
+          <tr>
+          <td><strong>fetch</strong></td>
+          <td>getirmek</td>
+          </tr>
+          <tr>
+          <td><strong>file</strong></td>
+          <td>dosya</td>
+          </tr>
+          <tr>
+          <td><strong>file conversion</strong></td>
+          <td>dosya dönüştürme</td>
+          </tr>
+          <tr>
+          <td><strong>file extension</strong></td>
+          <td>dosya uzantısı</td>
+          </tr>
+          <tr>
+          <td><strong>file format</strong></td>
+          <td>dosya biçimi</td>
+          </tr>
+          <tr>
+          <td><strong>file recovery</strong></td>
+          <td>dosya kurtarma</td>
+          </tr>
+          <tr>
+          <td><strong>file tab</strong></td>
+          <td>dosya sekmesi</td>
+          </tr>
+          <tr>
+          <td><strong>file type</strong></td>
+          <td>dosya türü</td>
+          </tr>
+          <tr>
+          <td><strong>file viewer</strong></td>
+          <td>dosya görüntüleyici</td>
+          </tr>
+          <tr>
+          <td><strong>find</strong></td>
+          <td>bul</td>
+          </tr>
+          <tr>
+          <td><strong>fix</strong></td>
+          <td>düzelt, onar</td>
+          </tr>
+          <tr>
+          <td><strong>floating toolbar</strong></td>
+          <td>kayan araç çubuğu</td>
+          </tr>
+          <tr>
+          <td><strong>frame</strong></td>
+          <td>çerçeve</td>
+          </tr>
+          <tr>
+          <td><strong>freeware</strong></td>
+          <td>ücretsiz yazılım</td>
+          </tr>
+          <tr>
+          <td><strong>front end</strong></td>
+          <td>kullanıcıların gördüğü arayüz</td>
+          </tr>
+          <tr>
+          <td><strong>full backup</strong></td>
+          <td>tam yedekleme</td>
+          </tr>
+          <tr>
+          <td><strong>full-text search</strong></td>
+          <td>tam metin araması</td>
+          </tr>
+          <tr>
+          <td><strong>game</strong></td>
+          <td>oyun</td>
+          </tr>
+          <tr>
+          <td><strong>grammar checker</strong></td>
+          <td>dilbilgisi kontrol edici</td>
+          </tr>
+          <tr>
+          <td><strong>halt</strong></td>
+          <td>&nbsp;durdurma</td>
+          </tr>
+          <tr>
+          <td><strong>handler</strong></td>
+          <td>işleyici</td>
+          </tr>
+          <tr>
+          <td><strong>head clean</strong></td>
+          <td>kafa temizleme (yazıcı)</td>
+          </tr>
+          <tr>
+          <td><strong>highlight</strong></td>
+          <td>vurgulama</td>
+          </tr>
+          <tr>
+          <td><strong>horizontal scrolling</strong></td>
+          <td>yatay kaydırma</td>
+          </tr>
+          <tr>
+          <td><strong>image editor</strong></td>
+          <td>resim düzenleyici</td>
+          </tr>
+          <tr>
+          <td><strong>import</strong></td>
+          <td>içe aktar</td>
+          </tr>
+          <tr>
+          <td><strong>insert</strong></td>
+          <td>ekle, araya ekle, yerleştir</td>
+          </tr>
+          <tr>
+          <td><strong>install</strong></td>
+          <td>kurmak</td>
+          </tr>
+          <tr>
+          <td><strong>installer</strong></td>
+          <td>kurucu (program), yükleyici</td>
+          </tr>
+          <tr>
+          <td><strong>interactive</strong></td>
+          <td>etkileşimli, interaktif</td>
+          </tr>
+          <tr>
+          <td><strong>interface</strong></td>
+          <td>arayüz</td>
+          </tr>
+          <tr>
+          <td><strong>ignore</strong></td>
+          <td>yoksay</td>
+          </tr>
+          <tr>
+          <td><strong>kill</strong></td>
+          <td>durdur, bağlantıyı kes</td>
+          </tr>
+          <tr>
+          <td><strong>launch</strong></td>
+          <td>çalıştır</td>
+          </tr>
+          <tr>
+          <td><strong>license</strong></td>
+          <td>lisans</td>
+          </tr>
+          <tr>
+          <td><strong>locked file</strong></td>
+          <td>kilitli dosya</td>
+          </tr>
+          <tr>
+          <td><strong>log</strong></td>
+          <td>sistem günlüğü</td>
+          </tr>
+          <tr>
+          <td><strong>macro recorder</strong></td>
+          <td>makro kaydedici</td>
+          </tr>
+          <tr>
+          <td><strong>malware</strong></td>
+          <td>kötü amaçlı yazılım</td>
+          </tr>
+          <tr>
+          <td><strong>marquee</strong></td>
+          <td>kayan yazı</td>
+          </tr>
+          <tr>
+          <td><strong>mask</strong></td>
+          <td>maske</td>
+          </tr>
+          <tr>
+          <td><strong>merge</strong></td>
+          <td>birleştir</td>
+          </tr>
+          <tr>
+          <td><strong>move</strong></td>
+          <td>taşı</td>
+          </tr>
+          <tr>
+          <td><strong>offset</strong></td>
+          <td>kaydır</td>
+          </tr>
+          <tr>
+          <td><strong>open file</strong></td>
+          <td>dosya aç</td>
+          </tr>
+          <tr>
+          <td><strong>open source</strong></td>
+          <td>açık kaynak</td>
+          </tr>
+          <tr>
+          <td><strong>optimization</strong></td>
+          <td>iyileştirme, en uygun duruma getirme</td>
+          </tr>
+          <tr>
+          <td><strong>optimize</strong></td>
+          <td>iyileştirmek</td>
+          </tr>
+          <tr>
+          <td><strong>option</strong></td>
+          <td>seçenek</td>
+          </tr>
+          <tr>
+          <td><strong>paint brush</strong></td>
+          <td>boya fırçası, fırça</td>
+          </tr>
+          <tr>
+          <td><strong>parameter</strong></td>
+          <td>parametre, değişken</td>
+          </tr>
+          <tr>
+          <td><strong>parent</strong></td>
+          <td>&nbsp;üst öge</td>
+          </tr>
+          <tr>
+          <td><strong>parental controls</strong></td>
+          <td>ebeveyn kontrol sistemi</td>
+          </tr>
+          <tr>
+          <td><strong>paste</strong></td>
+          <td>yapıştır</td>
+          </tr>
+          <tr>
+          <td><strong>paste special</strong></td>
+          <td>özel yapıştır</td>
+          </tr>
+          <tr>
+          <td><strong>patch</strong></td>
+          <td>yama</td>
+          </tr>
+          <tr>
+          <td><strong>path</strong></td>
+          <td>yol</td>
+          </tr>
+          <tr>
+          <td><strong>pdf (portable document format)</strong></td>
+          <td>taşınabilir belge biçimi</td>
+          </tr>
+          <tr>
+          <td><strong>piracy</strong></td>
+          <td>korsan yayıncılık</td>
+          </tr>
+          <tr>
+          <td><strong>plaintext</strong></td>
+          <td>düz metin</td>
+          </tr>
+          <tr>
+          <td><strong>preferences</strong></td>
+          <td>tercihler</td>
+          </tr>
+          <tr>
+          <td><strong>presentation program</strong></td>
+          <td>sunum programı</td>
+          </tr>
+          <tr>
+          <td><strong>print area</strong></td>
+          <td>yazdırma alanı</td>
+          </tr>
+          <tr>
+          <td><strong>problem reports and solutions</strong></td>
+          <td>sorun raporları ve çözümler</td>
+          </tr>
+          <tr>
+          <td><strong>public domain software</strong></td>
+          <td>kamuya açık yazılım</td>
+          </tr>
+          <tr>
+          <td><strong>publisher</strong></td>
+          <td>yayıncı, reklam veren</td>
+          </tr>
+          <tr>
+          <td><strong>purge</strong></td>
+          <td>temizle</td>
+          </tr>
+          <tr>
+          <td><strong>push button</strong></td>
+          <td>basılabilir düğme, düğmeye basmak</td>
+          </tr>
+          <tr>
+          <td><strong>put</strong></td>
+          <td>koymak</td>
+          </tr>
+          <tr>
+          <td><strong>qr code</strong></td>
+          <td>karekod</td>
+          </tr>
+          <tr>
+          <td><strong>quit</strong></td>
+          <td>çıkmak</td>
+          </tr>
+          <tr>
+          <td><strong>radio button</strong></td>
+          <td>seçenek düğmesi</td>
+          </tr>
+          <tr>
+          <td><strong>rasterize</strong></td>
+          <td>pikselleştirmek</td>
+          </tr>
+          <tr>
+          <td><strong>raw data</strong></td>
+          <td>işlenmemiş veri</td>
+          </tr>
+          <tr>
+          <td><strong>readme</strong></td>
+          <td>beni oku</td>
+          </tr>
+          <tr>
+          <td><strong>registry scanner</strong></td>
+          <td>kayıt defteri tarayıcı</td>
+          </tr>
+          <tr>
+          <td><strong>release</strong></td>
+          <td>yayın</td>
+          </tr>
+          <tr>
+          <td><strong>reload</strong></td>
+          <td>yeniden yükle</td>
+          </tr>
+          <tr>
+          <td><strong>remote control software</strong></td>
+          <td>uzaktan yönetim programı</td>
+          </tr>
+          <tr>
+          <td><strong>remotehelp</strong></td>
+          <td>uzaktan yardım</td>
+          </tr>
+          <tr>
+          <td><strong>rename</strong></td>
+          <td>yeniden adlandır</td>
+          </tr>
+          <tr>
+          <td><strong>replace</strong></td>
+          <td>değiştir</td>
+          </tr>
+          <tr>
+          <td><strong>report generator</strong></td>
+          <td>rapor oluşturucu</td>
+          </tr>
+          <tr>
+          <td><strong>resource</strong></td>
+          <td>kaynak</td>
+          </tr>
+          <tr>
+          <td><strong>restore</strong></td>
+          <td>eski durumuna getir</td>
+          </tr>
+          <tr>
+          <td><strong>retry</strong></td>
+          <td>tekrar dene</td>
+          </tr>
+          <tr>
+          <td><strong>runtime</strong></td>
+          <td>çalışma zamanı</td>
+          </tr>
+          <tr>
+          <td><strong>save</strong></td>
+          <td>kaydet</td>
+          </tr>
+          <tr>
+          <td><strong>save as</strong></td>
+          <td>farklı kaydet</td>
+          </tr>
+          <tr>
+          <td><strong>scale</strong></td>
+          <td>ölçekle</td>
+          </tr>
+          <tr>
+          <td><strong>scroll bar</strong></td>
+          <td>kaydırma çubuğu</td>
+          </tr>
+          <tr>
+          <td><strong>scroll box</strong></td>
+          <td>kaydırma kutusu</td>
+          </tr>
+          <tr>
+          <td><strong>section break</strong></td>
+          <td>bölüm sonu</td>
+          </tr>
+          <tr>
+          <td><strong>select</strong></td>
+          <td>seç</td>
+          </tr>
+          <tr>
+          <td><strong>select all</strong></td>
+          <td>tümünü seç</td>
+          </tr>
+          <tr>
+          <td><strong>set</strong></td>
+          <td>ayarla</td>
+          </tr>
+          <tr>
+          <td><strong>settings</strong></td>
+          <td>ayarlar</td>
+          </tr>
+          <tr>
+          <td><strong>setup</strong></td>
+          <td>kurulum</td>
+          </tr>
+          <tr>
+          <td><strong>skip</strong></td>
+          <td>atla</td>
+          </tr>
+          <tr>
+          <td><strong>snapshot</strong></td>
+          <td>anlık görüntü al</td>
+          </tr>
+          <tr>
+          <td><strong>snipping tool</strong></td>
+          <td>ekran alıntısı aracı</td>
+          </tr>
+          <tr>
+          <td><strong>soft copy</strong></td>
+          <td>elektronik kopya</td>
+          </tr>
+          <tr>
+          <td><strong>software</strong></td>
+          <td>yazılım</td>
+          </tr>
+          <tr>
+          <td><strong>software piracy</strong></td>
+          <td>yazılım korsanlığı</td>
+          </tr>
+          <tr>
+          <td><strong>software suite</strong></td>
+          <td>program paketi</td>
+          </tr>
+          <tr>
+          <td><strong>sort</strong></td>
+          <td>sırala</td>
+          </tr>
+          <tr>
+          <td><strong>sorter</strong></td>
+          <td>sıralayıcı</td>
+          </tr>
+          <tr>
+          <td><strong>spin box</strong></td>
+          <td>döndürme kutusu</td>
+          </tr>
+          <tr>
+          <td><strong>split</strong></td>
+          <td>böl</td>
+          </tr>
+          <tr>
+          <td><strong>split screen</strong></td>
+          <td>bölünmüş ekran</td>
+          </tr>
+          <tr>
+          <td><strong>spreadsheet</strong></td>
+          <td>elektronik tablo programı</td>
+          </tr>
+          <tr>
+          <td><strong>spyware</strong></td>
+          <td>casus yazılım</td>
+          </tr>
+          <tr>
+          <td><strong>status</strong></td>
+          <td>durum</td>
+          </tr>
+          <tr>
+          <td><strong>status bar</strong></td>
+          <td>durum çubuğu</td>
+          </tr>
+          <tr>
+          <td><strong>sticky notes</strong></td>
+          <td>yapışkan notlar</td>
+          </tr>
+          <tr>
+          <td><strong>stop</strong></td>
+          <td>dur</td>
+          </tr>
+          <tr>
+          <td><strong>system component</strong></td>
+          <td>sistem bileşeni</td>
+          </tr>
+          <tr>
+          <td><strong>system error</strong></td>
+          <td>sistem hatası</td>
+          </tr>
+          <tr>
+          <td><strong>system failure</strong></td>
+          <td>sistem hatası</td>
+          </tr>
+          <tr>
+          <td><strong>system requirements</strong></td>
+          <td>sistem gereksinimleri</td>
+          </tr>
+          <tr>
+          <td><strong>system restore</strong></td>
+          <td>sistem geri yükleme</td>
+          </tr>
+          <tr>
+          <td><strong>system software</strong></td>
+          <td>sistem yazılımı</td>
+          </tr>
+          <tr>
+          <td><strong>tab</strong></td>
+          <td>sekme</td>
+          </tr>
+          <tr>
+          <td><strong>target</strong></td>
+          <td>hedef</td>
+          </tr>
+          <tr>
+          <td><strong>task</strong></td>
+          <td>görev</td>
+          </tr>
+          <tr>
+          <td><strong>task scheduler</strong></td>
+          <td>görev zamanlayıcı</td>
+          </tr>
+          <tr>
+          <td><strong>terminate</strong></td>
+          <td>sonlandır</td>
+          </tr>
+          <tr>
+          <td><strong>text-only</strong></td>
+          <td>salt metin</td>
+          </tr>
+          <tr>
+          <td><strong>timer</strong></td>
+          <td>zamanlayıcı</td>
+          </tr>
+          <tr>
+          <td><strong>toggle</strong></td>
+          <td>açma kapama butonu</td>
+          </tr>
+          <tr>
+          <td><strong>transition</strong></td>
+          <td>geçiş</td>
+          </tr>
+          <tr>
+          <td><strong>translator</strong></td>
+          <td>çevirici</td>
+          </tr>
+          <tr>
+          <td><strong>tts (text to speech)</strong></td>
+          <td>metin okuma</td>
+          </tr>
+          <tr>
+          <td><strong>tweak</strong></td>
+          <td>ince ayar</td>
+          </tr>
+          <tr>
+          <td><strong>unarchive</strong></td>
+          <td>arşivden çıkar</td>
+          </tr>
+          <tr>
+          <td><strong>undelete</strong></td>
+          <td>silme işlemini geri al</td>
+          </tr>
+          <tr>
+          <td><strong>undo</strong></td>
+          <td>geri al</td>
+          </tr>
+          <tr>
+          <td><strong>unzip</strong></td>
+          <td>sıkıştırılmış dosyayı dışarı çıkarmak</td>
+          </tr>
+          <tr>
+          <td><strong>upgrade</strong></td>
+          <td>sürüm yükselt</td>
+          </tr>
+          <tr>
+          <td><strong>utility</strong></td>
+          <td>yardımcı program</td>
+          </tr>
+          <tr>
+          <td><strong>valid</strong></td>
+          <td>geçerli</td>
+          </tr>
+          <tr>
+          <td><strong>validity check</strong></td>
+          <td>geçerlilik kontrolü</td>
+          </tr>
+          <tr>
+          <td><strong>verbose</strong></td>
+          <td>ayrıntılı</td>
+          </tr>
+          <tr>
+          <td><strong>version</strong></td>
+          <td>sürüm</td>
+          </tr>
+          <tr>
+          <td><strong>video editing software</strong></td>
+          <td>video düzenleme yazılımı</td>
+          </tr>
+          <tr>
+          <td><strong>view</strong></td>
+          <td>görüntüle, görünüm</td>
+          </tr>
+          <tr>
+          <td><strong>virtual drive</strong></td>
+          <td>varsayılan sürücü, sanal sürücü</td>
+          </tr>
+          <tr>
+          <td><strong>virtual pc</strong></td>
+          <td>sanal bilgisayar</td>
+          </tr>
+          <tr>
+          <td><strong>virus</strong></td>
+          <td>virüs</td>
+          </tr>
+          <tr>
+          <td><strong>visible page</strong></td>
+          <td>görünür sayfa</td>
+          </tr>
+          <tr>
+          <td><strong>warez</strong></td>
+          <td>telif hakkı olan bir programın illegal biçimde paylaşılması</td>
+          </tr>
+          <tr>
+          <td><strong>widget</strong></td>
+          <td>bilgisayar ya da cep telefonlarının ekranlarında bulunan küçük araçlar</td>
+          </tr>
+          <tr>
+          <td><strong>wildcard</strong></td>
+          <td>joker</td>
+          </tr>
+          <tr>
+          <td><strong>wizard</strong></td>
+          <td>sihirbaz</td>
+          </tr>
+          <tr>
+          <td><strong>word count</strong></td>
+          <td>sözcük sayımı</td>
+          </tr>
+          <tr>
+          <td><strong>word processor</strong></td>
+          <td>kelime işlemci</td>
+          </tr>
+          <tr>
+          <td><strong>wrap text</strong></td>
+          <td>metni kaydır</td>
+          </tr>
+          <tr>
+          <td><strong>wysiwyg (what you see is what you get)</strong></td>
+          <td>ne görüyorsan sonuç olarak onu alırsın</td>
+          </tr>
+          <tr>
+            <td><strong>
+              Absolutely not.
+            </strong></td>
+            <td>
+              Kesinlikle olmaz. Kesinlikle hayır.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>
+              Are you coming with me?
+            </strong></td>
+            <td>
+              Benimle geliyor musun?
+            </td>
+          </tr>
+          <tr>
+            <td><strong>
+              I’m leaving.
+            </strong></td>
+            <td>
+               Ben gidiyorum.
+            </td>
+          </tr>
+
+          </tbody>
+          </table>
+    </div>
+    <div class="col-sm-2">
+    </div>
+  </div>
+</div>
+
+  </body>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</html>
