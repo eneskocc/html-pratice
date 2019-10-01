@@ -1,10 +1,4 @@
 .fakeimg {
-  height: 200px;
-  background: #aaa;
-}
-.jumbotron{
-  background-color: #483D8B;
-}
-.fa{
-  z-index: -1;
-}
+    height: 200px;
+    background: #aaa;
+  }
